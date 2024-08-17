@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/3s4vef.png">
+  <img src="https://files.catbox.moe/347jdz.png">
 </p>
